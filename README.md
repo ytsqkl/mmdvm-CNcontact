@@ -16,4 +16,10 @@ mmdvm屏幕固件用的中文通讯录
 
 4.重启机器sudo reboot
 
+文件直链:
+
+https://gitee.com/ytqkl/mmdvm-CNcontact/raw/main/stripped.csv      
+
+https://github.com/ytsqkl/mmdvm-CNcontact/raw/main/stripped.csv
+
 安装方法参照：BD3OYD，数据来源自由通dmr群
