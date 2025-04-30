@@ -8,7 +8,7 @@ mmdvm屏幕固件用的中文通讯录
 安装教程
 1.ssh登录，pi-star，raspberry
 
-2.rpi-rw; cd /tmp; sudo git clone https://github.com/ytsqkl/mmdvm-CNcontact.git; cd /tmp/mmdvm-CNcontact; sudo cp stripped.csv /usr/local/etc;
+2.rpi-rw; cd /tmp; sudo git clone https://github.com/ytsqkl/mmdvm-CNcontact.git; cd /tmp/mmdvm-CNcontact; sudo cp stripped.csv /usr/local/etc
 
 3.后台配置 nextion通讯录为stripped.csv
 
