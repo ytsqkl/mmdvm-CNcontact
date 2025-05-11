@@ -4,8 +4,7 @@ pi-star版本：Pi-Star_RPi_V4.2.3_18
 屏幕固件版本：BD3OYD  
 屏幕参数：3.5英寸 TJC4832T035_011  
 数据来源：自由通dmr群  
-![1746973665382](https://github.com/user-attachments/assets/49c49459-8cc8-4fad-9ac2-38af8e6ad45b)
-
+数据格式：![1746973665382](https://github.com/user-attachments/assets/49c49459-8cc8-4fad-9ac2-38af8e6ad45b)
 安装教程 ：  
 
 1.ssh登录树莓，ip：x.x.x.x,端口:22，默认用户名：pi-star，默认账号：raspberry  
@@ -19,6 +18,9 @@ pi-star版本：Pi-Star_RPi_V3.4.17
 屏幕固件版本：BD3OYD  
 屏幕参数：3.5英寸 TJC4832T035_011  
 数据来源：自由通dmr群  
+数据格式：
+![1746973809106](https://github.com/user-attachments/assets/f151b376-0365-4b5c-80cb-0c1e6b607953)
+
 安装教程 ：  
 1.ssh登录树莓，ip：x.x.x.x,端口:22，默认用户名：pi-star，默认账号：raspberry  
 2.1 rpi-rw; cd /tmp; sudo git clone https://github.com/ytsqkl/mmdvm-CNcontact.git; cd /tmp/mmdvm-CNcontact; sudo cp stripped-3.4.17.csv /usr/local/etc/stripped.csv   
