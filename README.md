@@ -4,6 +4,8 @@ pi-star版本：Pi-Star_RPi_V4.2.3_18
 屏幕固件版本：BD3OYD  
 屏幕参数：3.5英寸 TJC4832T035_011  
 数据来源：自由通dmr群  
+![1746973665382](https://github.com/user-attachments/assets/49c49459-8cc8-4fad-9ac2-38af8e6ad45b)
+
 安装教程 ：  
 
 1.ssh登录树莓，ip：x.x.x.x,端口:22，默认用户名：pi-star，默认账号：raspberry  
