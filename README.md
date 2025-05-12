@@ -16,10 +16,10 @@ pi-star版本：Pi-Star_RPi_V3.4.17
 效果图：![1dbf7fb454de5432deb7a5c530e8e1d](https://github.com/user-attachments/assets/48aa2fdb-2fa3-411f-a5c1-76aed683021b)  
 
 注意：如因mmdvm系统版本、屏幕驱动、屏幕固件等有差异，可能出现数据字段显示不准问题，请卸载屏幕驱动并重新安装，方法如下：  
-rpi-rw
-sudo rm -rf /usr/local/bin/NextionDriver
-sudo rm -rf /etc/mmdvmhost.old
-cd /tmp
-sudo git clone https://gitee.com/BD3OYD/NextionDriverInstaller.git
-sudo NextionDriverInstaller/install.sh   
+rpi-rw  
+sudo rm -rf /usr/local/bin/NextionDriver  
+sudo rm -rf /etc/mmdvmhost.old  
+cd /tmp  
+sudo git clone https://gitee.com/BD3OYD/NextionDriverInstaller.git  
+sudo NextionDriverInstaller/install.sh     
 感谢BD3OYD指导！！
