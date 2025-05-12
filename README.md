@@ -21,5 +21,5 @@ sudo rm -rf /usr/local/bin/NextionDriver
 sudo rm -rf /etc/mmdvmhost.old
 cd /tmp
 sudo git clone https://gitee.com/BD3OYD/NextionDriverInstaller.git
-sudo NextionDriverInstaller/install.sh
+sudo NextionDriverInstaller/install.sh   
 感谢BD3OYD指导！！
