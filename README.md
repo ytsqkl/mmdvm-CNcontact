@@ -1,5 +1,5 @@
 
-版本一、mmdvm屏幕固件中文通讯录 
+mmdvm屏幕固件中文通讯录 
 pi-star版本：Pi-Star_RPi_V3.4.17 
 热点版：双工，固件1.6  
 屏幕固件版本：BD3OYD  
@@ -12,7 +12,8 @@ pi-star版本：Pi-Star_RPi_V3.4.17
 2.2 rpi-rw; cd /tmp; sudo git clone https://gitee.com/ytqkl/mmdvm-CNcontact.git; cd /tmp/mmdvm-CNcontact; sudo cp stripped.csv /usr/local/etc  
 3.后台配置 nextion通讯录为stripped.csv：NextionDriver-DMRidFile：stripped.csv，配置地址：DMRidFileSrc-https://gitee.com/ytqkl/mmdvm-CNcontact/raw/main/stripped.csv  
 4.重启机器sudo reboot  
-数据制作：中国（含港澳台地区），新加坡，马拉西亚，姓名合并到FIRST_NAME，国家和省份要甄别修改，不要出现问题，名字长的用简称要不显示不全。  
+数据制作：中国（含港澳台地区），新加坡，马拉西亚，姓名合并到FIRST_NAME，国家和省份要甄别修改，不要出现问题，名字长的用简称要不显示不全。    
+效果图：![1dbf7fb454de5432deb7a5c530e8e1d](https://github.com/user-attachments/assets/48aa2fdb-2fa3-411f-a5c1-76aed683021b)  
 
 注意：如因mmdvm系统版本、屏幕驱动、屏幕固件等有差异，可能出现数据字段显示不准问题，请卸载屏幕驱动并重新安装，方法如下：  
 rpi-rw
